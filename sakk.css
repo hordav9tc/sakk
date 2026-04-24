@@ -10,3 +10,29 @@ body {
     font-size: 96px;
     text-align: center;
 }
+
+.fk {
+    font-weight: bold;
+}
+
+.feher {
+    background-color: white;
+    color: black;
+}
+
+.fekete {
+    background-color: black;
+    color: white;
+}
+
+.alakzat {
+    font-size: 600%;
+    text-align: center;
+    margin: 0 0;
+}
+
+.kepalairas {
+    font-style: italic;
+    line-height: 12px;
+    text-align: center;
+}

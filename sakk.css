@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap');
+
+body {
+    background-image: url(sakk-hatter.png);
+    background-size: 300px;
+}
+
+.cim {
+    font-family: 'Cinzel Decorative';
+    font-size: 96px;
+    text-align: center;
+}
